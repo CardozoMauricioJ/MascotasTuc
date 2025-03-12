@@ -1,0 +1,13 @@
+com\mascotas\tienda\controller\MascotaRestController.class
+com\mascotas\tienda\service\AdoptanteServiceImpl.class
+com\mascotas\tienda\service\AdoptanteService.class
+com\mascotas\tienda\entity\Adoptante.class
+com\mascotas\tienda\service\MascotaServiceImpl.class
+com\mascotas\tienda\dao\AdoptanteDAOImpl.class
+com\mascotas\tienda\TiendaApplication.class
+com\mascotas\tienda\entity\Mascota.class
+com\mascotas\tienda\service\MascotaService.class
+com\mascotas\tienda\dao\MascotaDAOImpl.class
+com\mascotas\tienda\dao\AdoptanteDAO.class
+com\mascotas\tienda\controller\AdoptanteRestController.class
+com\mascotas\tienda\dao\MascotaDAO.class
